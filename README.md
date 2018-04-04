@@ -8,3 +8,4 @@
 #### 1.3 PHP-allow_url_fopen设置为Off的影响以及其他说明,md5_file_all.php跟md5_file_remote.php都是替代品
 #### 1.4 PHP-disable_functions, PHP设置禁用内置方法的说明
 #### 1.5 Mysql注入之Limit注入版本差异
+#### 1.6 文件包含Tips
