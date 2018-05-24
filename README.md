@@ -9,3 +9,4 @@
 #### 1.4 PHP-disable_functions, PHP设置禁用内置方法的说明
 #### 1.5 Mysql注入之Limit注入版本差异
 #### 1.6 文件包含Tips
+#### 1.7 某设备RCE漏洞及其过程技巧
